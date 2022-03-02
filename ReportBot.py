@@ -2,24 +2,6 @@
 import time #line:3
 from colorama import Fore ,Back ,Style ,init #line:4
 init (autoreset =True )#line:5
-def startMessage ():#line:7
-    OO0O0OO0OOO0OO0O0 =input (Fore .YELLOW +"Enter Code To Unlock The Tool : ")#line:8
-    OOOO0OO000OO0OOOO ="@hackerexploits"#line:9
-    if OOOO0OO000OO0OOOO !=OO0O0OO0OOO0OO0O0 :#line:10
-        print (Fore .RED +'[X] Wrong Code')#line:11
-        print (Fore .BLUE +''' 
-   1. Go to telegram
-   2. Join http://t.me/hacker_Chatroom
-   3. Send #Instareport In Group
-   4. You Will Get Code For Free
-   5. Next time come with code and use this tool
-    ''')#line:18
-        startMessage ()#line:19
-    else :#line:20
-        print (Fore .GREEN +"Successfully Unlocked Tool!")#line:21
-        pass #line:22
-if __name__ =="__main__":#line:24
-    startMessage ()#line:25
 from libs .check_modules import check_modules #line:27
 from sys import exit #line:28
 from os import _exit #line:29
