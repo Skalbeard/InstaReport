@@ -7,5 +7,5 @@ instagram reporter
 * run command 		docker pull skalbe/ohlol:latest
 * run command 		docker run skalbe/ohlol:latest
 
-KANĀLU SARAKSTS:
+CHANNEL LIST:
 https://github.com/Skalbeard/InstaReport/blob/master/targets
