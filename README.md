@@ -6,3 +6,6 @@ instagram reporter
 * open CMD or PowerShell in that project folder (same way as with telrep)
 * run command 		docker pull skalbe/ohlol:latest
 * run command 		docker run skalbe/ohlol:latest
+
+KANĀLU SARAKSTS:
+https://github.com/Skalbeard/InstaReport/blob/master/targets
